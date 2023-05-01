@@ -1,6 +1,6 @@
 
 const mongoose = require('mongoose')
-const MONGO_URL = 'mongodb+srv://anishayadav20626:Anisha1234567890@cluster0.gjg6m66.mongodb.net/test';
+const MONGO_URL = 'mongodb+srv://username:<password>@cluster0.gjg6m66.mongodb.net/test';
 
 const MONGO_OPTIONS: any = {
     useNewUrlParser: true,
